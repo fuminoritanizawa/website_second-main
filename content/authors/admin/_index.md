@@ -186,4 +186,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fumi Tanizawa is a dedicated researcher in molecular genetics and regenerative medicine, currently applying to PhD programs in biology. With extensive research experience at renowned institutions such as Shizuoka University, Harvey Mudd College, and Scripps Research, Fumi has contributed significantly to understanding genetic mechanisms and cellular behaviors in various model organisms including Drosophila melanogaster and Trypanosoma brucei. Fumi’s research interests span molecular immunology, developmental biology, and computational biology, focusing on genetic medicine and the optimization of protocols for characterizing antigenic diversity. Fumi aims to lead innovative research projects that advance the field of genetic medicine and improve human health.
+
+Japanese: こんにちは！分子遺伝学と再生医学の研究者になるべく、生物学の博士課程に応募中です。静岡大学、ハーベイマッド大学、ジョンズホプキンス大学、スクリップス研究所などでの研究経験があります。研究対象は分子免疫学、発生生物学、計算生物学で、遺伝医学の分野で革新的な研究を目指しています。
