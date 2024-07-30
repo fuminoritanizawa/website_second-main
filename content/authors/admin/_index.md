@@ -186,6 +186,10 @@ awards:
 
 ## About Me
 
-Fumi Tanizawa is a dedicated researcher in molecular genetics and regenerative medicine, currently applying to PhD programs in biology. With extensive research experience at renowned institutions such as Shizuoka University, Harvey Mudd College, and Scripps Research, Fumi has contributed significantly to understanding genetic mechanisms and cellular behaviors in various model organisms including Drosophila melanogaster and Trypanosoma brucei. Fumi’s research interests span molecular immunology, developmental biology, and computational biology, focusing on genetic medicine and the optimization of protocols for characterizing antigenic diversity. Fumi aims to lead innovative research projects that advance the field of genetic medicine and improve human health.
+Welcome! I’m Fumi Tanizawa, a passionate researcher specializing in molecular genetics and regenerative medicine, and currently a senior at Harvey Mudd College majoring in Computational Biology. I am pursuing PhD opportunities in molecular immunology. My research journey has taken me through esteemed institutions like Johns Hopkins University, Scripps Research, Shizuoka University, and Harvey Mudd College, where I’ve explored genetic mechanisms in model organisms such as *D. melanogaster*, *C. elegans*, and *T. brucei*.
 
-Japanese: こんにちは！分子遺伝学と再生医学の研究者になるべく、生物学の博士課程に応募中です。静岡大学、ハーベイマッド大学、ジョンズホプキンス大学、スクリップス研究所などでの研究経験があります。研究対象は分子免疫学、発生生物学、計算生物学で、遺伝医学の分野で革新的な研究を目指しています。
+My primary interests lie in molecular immunology, with a particular focus on genetic medicine and its applications to neglected tropical diseases. I am committed to advancing our understanding of genetic mechanisms and developing innovative solutions that enhance human health on a global scale.
+
+**Japanese**: こんにちは！ハーベイマッド大学で計算生物学専攻の谷澤文礼です。現在、分子免疫学の博士課程に応募中です。ジョンズホプキンス大学、スクリップス研究所、静岡大学、ハーベイマッド大学などの著名な機関で、*D. melanogaster*、*C. elegans*、および *T. brucei*などのモデル生物における遺伝子機構の研究に従事してきました。
+
+私の主な関心は分子免疫学で、特に遺伝医学とそのネグレクトされている熱帯病への応用に焦点を当てています。遺伝子機構の理解を深め、人類の健康を向上させる革新的なソリューションを開発することに全力を尽くしています。
