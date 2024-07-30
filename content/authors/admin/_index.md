@@ -186,10 +186,6 @@ awards:
 
 ## About Me
 
-Welcome! I’m Fumi Tanizawa, a passionate researcher specializing in molecular genetics and regenerative medicine, and currently a senior at Harvey Mudd College majoring in Computational Biology. I am pursuing PhD opportunities in molecular immunology. My research journey has taken me through esteemed institutions like Johns Hopkins University, Scripps Research, Shizuoka University, and Harvey Mudd College, where I’ve explored genetic mechanisms in model organisms such as *D. melanogaster*, *C. elegans*, and *T. brucei*.
+Hi, I’m Fumi Tanizawa, a senior at Harvey Mudd College majoring in Computational Biology. I specialize in molecular genetics and regenerative medicine, with research experiences at Johns Hopkins University, Scripps Research, Shizuoka University, and Harvey Mudd College. My interests focus on molecular immunology and genetic medicine, particularly for neglected tropical diseases. I’m dedicated to advancing human health through innovative research.
 
-My primary interests lie in molecular immunology, with a particular focus on genetic medicine and its applications to neglected tropical diseases. I am committed to advancing our understanding of genetic mechanisms and developing innovative solutions that enhance human health on a global scale.
-
-**Japanese**: こんにちは！ハーベイマッド大学で計算生物学専攻の谷澤文礼です。現在、分子免疫学の博士課程に応募中です。ジョンズホプキンス大学、スクリップス研究所、静岡大学、ハーベイマッド大学などの著名な機関で、*D. melanogaster*、*C. elegans*、および *T. brucei*などのモデル生物における遺伝子機構の研究に従事してきました。
-
-私の主な関心は分子免疫学で、特に遺伝医学とそのネグレクトされている熱帯病への応用に焦点を当てています。遺伝子機構の理解を深め、人類の健康を向上させる革新的なソリューションを開発することに全力を尽くしています。
+Japanese: こんにちは！ハーベイマッド大学で計算生物学専攻の谷澤文礼です。分子遺伝学と再生医学を専門とし、ジョンズホプキンス大学、スクリップス研究所、静岡大学、ハーベイマッド大学での研究経験があります。私の関心は、分子免疫学と遺伝医学、特にネグレクトされている熱帯病への応用にあります。革新的な研究を通じて人類の健康向上に貢献することを目指しています。
