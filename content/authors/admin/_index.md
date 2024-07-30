@@ -196,14 +196,6 @@ awards:
     icon: edx
     summary: |
       Provided summer aid to support my research internship, allowing me to gain valuable experience in molecular genetics and regenerative medicine.
-      
-  - title: John and Miyoko Davey Foundation Living-expenses Fellowship
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    date: '2021-2023'
-    awarder: John and Miyoko Davey Foundation
-    icon: datacamp
-    summary: |
-      Awarded a fellowship to cover living expenses, enabling me to focus on my academic and research pursuits without financial burden.
 ---
 
 ## About Me
