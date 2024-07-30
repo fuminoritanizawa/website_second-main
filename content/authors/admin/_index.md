@@ -156,10 +156,11 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Grand Prize Winner, Minister of Education, Science and Technology Award
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2020-11'
+    date: '2020-11-01'
     awarder: Japan Science and Technology Agency National High School Student Research Presentation
     icon: coursera
     summary: |
@@ -167,23 +168,23 @@ awards:
       
   - title: Grand Prize Winner, Minister of Health, Labor and Welfare Award
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2020-08'
+    date: '2020-08-01'
     awarder: Japan National High School Student Biology Summit
     icon: edx
     summary: |
       Recognized for my research on the impact of genetic factors on the behavior of model organisms, contributing to the understanding of biological systems.
       
-  - title: Tadashi Yanai Foundation Full-ride Scholarship
+  - title: Tadashi Yanai Foundation Four-yaer Full-ride Scholarship
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    date: '2021-2025'
+    date: '2021-07-01'
     awarder: Tadashi Yanai Foundation
     icon: datacamp
     summary: |
       Received a full-ride scholarship covering all academic expenses, awarded to outstanding students demonstrating academic excellence and research potential.
       
-  - title: Masason Foundation Research Grants
+  - title: Masason Foundation Seven-year Research Grants
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2018-2025'
+    date: '2018-06-01'
     awarder: Masason Foundation
     icon: coursera
     summary: |
@@ -191,11 +192,19 @@ awards:
       
   - title: Ben Huppe ’14 Memorial Internships Fellowship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023'
+    date: '2023-06-01'
     awarder: Harvey Mudd College
     icon: edx
     summary: |
       Provided summer aid to support my research internship, allowing me to gain valuable experience in molecular genetics and regenerative medicine.
+      
+  - title: John and Miyoko Davey Foundation Living-expenses Fellowship
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    date: '2021-06-01'
+    awarder: John and Miyoko Davey Foundation
+    icon: datacamp
+    summary: |
+      Awarded a fellowship to cover living expenses, enabling me to focus on my academic and research pursuits without financial burden.
 ---
 
 ## About Me
