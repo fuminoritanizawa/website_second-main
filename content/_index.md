@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Interest'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a senior at Harvey Mudd College majoring in Computational Biology, with a passion for molecular genetics and regenerative medicine. My mission is to advance the understanding of molecular immunology and genetic medicine, especially in the context of neglected tropical diseases.
         
-        Please reach out to collaborate 😃
+        I’ve had the privilege of conducting research at institutions like Johns Hopkins University, Scripps Research, Shizuoka University, and Harvey Mudd College. My work involves studying genetic mechanisms in model organisms such as Drosophila melanogaster, Caenorhabditis elegans, and Trypanosoma brucei.
+        
+        I use a variety of qualitative and quantitative methods to explore genetic mechanisms and aim to contribute to innovative solutions that enhance human health.
     design:
       columns: '1'
   - block: collection

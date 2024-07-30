@@ -15,7 +15,7 @@ baseURL: 'https://fuminoritanizawa.com/'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## ADVANCED

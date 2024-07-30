@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {2024} Fuminori Tanizawa.'
+    notice: '© 2024 Fuminori Tanizawa.'
     license:
       enable: false
       allow_derivatives: false
