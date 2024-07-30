@@ -146,11 +146,11 @@ skills:
 
 languages:
   - name: English
+    percent: 90
+  - name: Japanese
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
