@@ -24,9 +24,9 @@ sections:
         color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: dna_background_2.png
+          filename: dna_background_3.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
