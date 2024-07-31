@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: dna_background_1.jpg
           filters:
-            brightness: 100
+            brightness: 1.0
           size: cover
           position: center
           parallax: false
